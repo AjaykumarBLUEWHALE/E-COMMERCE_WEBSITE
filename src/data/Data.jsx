@@ -1245,43 +1245,6 @@ const b =[ {
 
 
 
-const poloProducts = [
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamond-strawberry-FRDV-noir.jpg&w=750&q=75",
-    name: "Diamond strawberry polo shirt",
-    price: "€55,00"
-  },
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-FRDV-blanc.jpg&w=750&q=75",
-    name: "Diamond strawberry polo shirt",
-    price: "€55,00"
-  },
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-grenouille-qui-siffle-siffleur-FRDV-bleu-marine.jpg&w=750&q=75",
-    name: "Whistle polo shirt",
-    price: "€49,00"
-  },
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-frog-grenouille-FRDV-noir.jpg&w=750&q=75",
-    name: "Whistle polo shirt",
-    price: "€49,00"
-  },
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-grenouille-qui-siffle-whistle-FRDV-blanc.jpg&w=750&q=75",
-    name: "Whistle polo shirt",
-    price: "€49,00"
-  },
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-frdv-blanc-1.jpg&w=750&q=75",
-    name: "Diamond strawberry polo shirt",
-    price: "€55,00"
-  },
-  {
-    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-frdv.jpg&w=750&q=75",
-    name: "Diamond strawberry polo shirt",
-    price: "€55,00"
-  }
-];
 const products = [
   {
     url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-noir.jpg&w=750&q=75",
@@ -1440,9 +1403,188 @@ const para = [
   }
 ];
 
+ export const allProducts = {
+tshirts:[
+  {
+    id: 1,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-noir.jpg&w=750&q=75",
+    name: "Tshirt diamant fraise noir",
+    price: "₹999"
+  },
+  {
+    id: 2,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-frdv-bleu.jpg&w=750&q=75",
+    name: "Tshirt diamant fraise frdv bleu",
+    price: "₹999"
+  },
+  {
+    id: 3,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-diamant-fraise-frdv-blanc.jpg&w=750&q=75",
+    name: "Tshirt diamant fraise frdv blanc",
+    price: "₹999"
+  },
+  {
+    id: 4,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-grenouille-qui-siffle-frdv-bleu.jpg&w=750&q=75",
+    name: "Tshirt grenouille qui siffle frdv bleu",
+    price: "₹999"
+  },
+  {
+    id: 5,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-grenouille-qui-siffle-frdv-blanc.jpg&w=750&q=75",
+    name: "Tshirt grenouille qui siffle frdv blanc",
+    price: "₹999"
+  },
+  {
+    id: 6,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-grenouille-qui-siffle-frdv.jpg&w=750&q=75",
+    name: "Tshirt grenouille qui siffle frdv",
+    price: "₹999"
+  },
+  {
+    id: 7,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-Paridise-noir.jpg&w=750&q=75",
+    name: "Tshirt Paridise noir",
+    price: "₹999"
+  },
+  {
+    id: 8,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-Paridise-blanc-frdv.jpg&w=750&q=75",
+    name: "Tshirt Paridise blanc frdv",
+    price: "₹999"
+  },
+  {
+    id: 9,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Ftshirt-cupcake-fraise-diamant-frdv.jpg&w=750&q=75",
+    name: "Tshirt cupcake fraise diamant frdv",
+    price: "₹999"
+  },
+  {
+    id: 10,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-cupcake-diamant-fraise-frdv.jpg&w=750&q=75",
+    name: "Tshirt cupcake diamant fraise frdv",
+    price: "₹999"
+  },
+  {
+    id: 11,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Ftshirt-cupcake-diamant-fraise.jpg&w=750&q=75",
+    name: "Tshirt cupcake diamant fraise",
+    price: "₹999"
+  },
+  {
+    id: 12,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-paridise-p.jpg&w=750&q=75",
+    name: "Tshirt paridise p",
+    price: "₹999"
+  },
+  {
+    id: 13,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-Paridise-p-noir.jpg&w=750&q=75",
+    name: "Tshirt Paridise p noir",
+    price: "₹999"
+  },
+  {
+    id: 14,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-frdv-coeur.jpg&w=750&q=75",
+    name: "Tshirt diamant fraise frdv coeur",
+    price: "₹999"
+  },
+  {
+    id: 15,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2FTshirt-face-frdv-23.jpg&w=750&q=75",
+    name: "Tshirt face frdv 23",
+    price: "₹999"
+  },
+  {
+    id: 16,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-F-frdv-noir-1.jpg&w=750&q=75",
+    name: "Tshirt F frdv noir",
+    price: "₹999"
+  },
+  {
+    id: 17,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2FTshirt-frdv-face.jpg&w=750&q=75",
+    name: "Tshirt frdv face",
+    price: "₹999"
+  },
+  {
+    id: 18,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-Frdv.jpg&w=750&q=75",
+    name: "Tshirt diamant fraise Frdv",
+    price: "₹999"
+  },
+  {
+    id: 19,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-Obama-excuse-my-freshness.jpg&w=750&q=75",
+    name: "Tshirt Obama excuse my freshness",
+    price: "₹999"
+  },
+  {
+    id: 20,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-shaq-oneal-nba-basketball.jpg&w=750&q=75",
+    name: "Tshirt Shaq Oneal NBA basketball",
+    price: "₹999"
+  }
+],
 
+poloProducts: [
+  {
+    id: 1,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamond-strawberry-FRDV-noir.jpg&w=750&q=75",
+    name: "Diamond strawberry polo shirt",
+    price: "€55,00"
+  },
+  {
+    id: 2,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-FRDV-blanc.jpg&w=750&q=75",
+    name: "Diamond strawberry polo shirt",
+    price: "€55,00"
+  },
+  {
+    id: 3,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-grenouille-qui-siffle-siffleur-FRDV-bleu-marine.jpg&w=750&q=75",
+    name: "Whistle polo shirt",
+    price: "€49,00"
+  },
+  {
+    id: 4,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-frog-grenouille-FRDV-noir.jpg&w=750&q=75",
+    name: "Whistle polo shirt",
+    price: "€49,00"
+  },
+  {
+    id: 5,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-grenouille-qui-siffle-whistle-FRDV-blanc.jpg&w=750&q=75",
+    name: "Whistle polo shirt",
+    price: "€49,00"
+  },
+  {
+    id: 6,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-frdv-blanc-1.jpg&w=750&q=75",
+    name: "Diamond strawberry polo shirt",
+    price: "€55,00"
+  },
+  {
+    id: 7,
+    url: "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-frdv.jpg&w=750&q=75",
+    name: "Diamond strawberry polo shirt",
+    price: "€55,00"
+  }
+],
+ 
+  pants: [
+    { id: 1, name: "Blue Jeans", price: 1200, image: "/images/pant1.jpg" },
+    { id: 2, name: "Black Chinos", price: 1000, image: "/images/pant2.jpg" },
+  ],
+  caps: [
+    { id: 1, name: "Baseball Cap", price: 300, image: "/images/cap1.jpg" },
+    { id: 2, name: "Snapback Cap", price: 350, image: "/images/cap2.jpg" },
+  ],
+  accessories: [
+    { id: 1, name: "Leather Belt", price: 800, image: "/images/belt1.jpg" },
+  ]}
 
 
 const size =[{fit:"3XL"}
   ,{fit:"4XL"},{fit:"5XL"},{fit:"L"},{fit:"M"},{fit:"ONE"},{fit:"S"},{fit:"XL"},{fit:"XS"},{fit:"XXL"}]
-  export default {imgUrls,para,b,products, coatProducts,accessories,poloProducts,tshirts,pantProducts,sweater,hoodie,pants,size};
+  export default {imgUrls,para,b,products, coatProducts,accessories,tshirts,pantProducts,sweater,hoodie,pants,size};

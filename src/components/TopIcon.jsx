@@ -1,8 +1,8 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 const TopIcon = () => {
   return (
-        <div className='relative top-0 left-[75%] grid grid-cols-4 gap-2 p-2 icon-menu '>
+        <div className='relative top-0 left-[69%] grid grid-cols-4 gap-2 p-2 icon-menu '>
     <div className="icon  ">
 
      <a href="/account">   <svg xmlns="http://www.w3.org/2000/svg"

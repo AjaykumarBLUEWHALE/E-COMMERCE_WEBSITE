@@ -5,7 +5,7 @@ import Footer from './Footer';
 const Account = () => {
   return (
     <div>
-      <Navbar />
+
 <div className='w-full h-[80vh] bg-transparent z-0 '>
 <div className='flex items-center justify-center relative top-[0px]'>
    <div className="wrapper flex items-center justify-center  space-x-2  fixed top-40 w-full">
