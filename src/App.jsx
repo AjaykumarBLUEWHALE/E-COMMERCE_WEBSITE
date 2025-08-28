@@ -21,11 +21,12 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 function App() {
   return (
     <div className="">
-      <IconBar />
-      <HoveringIcons />
-      <Logo />
+    
 
       <Router>
+          <IconBar />
+      <HoveringIcons />
+      <Logo />
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
