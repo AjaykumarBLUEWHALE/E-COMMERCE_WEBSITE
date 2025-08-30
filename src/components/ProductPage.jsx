@@ -149,7 +149,7 @@ function ProductPage() {
         className="picture  mix-blend-multiply object-cover"
       />
       <h3 className="text-center text-[15px] mt-8  text-gray-400">{item.name}</h3>
-      <p className="text-black mb-1 font-bold text-[30px] text-center">{item.price}</p>
+      <p className="text-black mb-1 font-bold text-[30px] text-center">₹{item.price}</p>
     </Link>
         ))}
       </div>

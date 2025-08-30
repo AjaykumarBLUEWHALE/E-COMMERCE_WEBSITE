@@ -20,7 +20,7 @@ const ProductSidebar = () => {
  </div>
   <div className="side">
         <h1 className="font-semibold">Colours</h1>
-        <div className="box grid grid-cols-4 gap-1 gap-x-0">
+        <div className="box grid grid-cols-4 gap-1 gap-x-0 ">
           {[
             "bg-black",
             "bg-blue-500",
@@ -40,7 +40,7 @@ const ProductSidebar = () => {
           ].map((color, index) => (
             <div
               key={index}
-              className={`color w-8 aspect-square ${color} hover:border-2 hover:border-gray-500 cursor-pointer`}
+              className={`color border-b-2 border-black w-8 aspect-square ${color} hover:border-2 hover:border-gray-500 cursor-pointer`}
             ></div>
           ))}
         </div>
