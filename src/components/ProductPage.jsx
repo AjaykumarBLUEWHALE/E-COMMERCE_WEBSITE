@@ -32,14 +32,15 @@ function ProductPage() {
 
   return (
     <div className="p-6 ">
-      <div className="max-w-xxl  productpage">
-        <div className="grid grid-cols-2">
+      <div className="max-w-xxl  productpage ">
+        <div className="grid sm:grid-cols-2 grid-cols-1">
           <div>   <img src={product.url} alt={product.name} className="" /></div>
           <div>  
-           <div className="flex flex-col gap-4">
-<div className="flex justify-between">  <h1 className="text-3xl font-bold">{product.name}</h1> 
-  <h1 className=" text-3xl font-bold text-blue-50">₹{product.price}</h1></div>
-  <h2 className="text-gray-600 productInfo">{product.line}</h2>
+           <div className="flex flex-col gap-4 phone">
+<div className="flex justify-between ">  <h1 className="sm:text-3xl text-2xl font-bold">{product.name}</h1> 
+  <h1 className=" sm:text-3xl text-2xl font-bold text-black">₹{product.price}</h1></div>
+
+    <h2 className="text-gray-600 productInfo">{product.line}</h2>
     <h2 className="text-gray-600 productInfo">{product.line2}</h2>
       <h2 className="text-gray-600 productInfo">{product.line3}</h2>
         <h2 className="text-gray-600 productInfo">{product.line4}</h2>
@@ -47,9 +48,11 @@ function ProductPage() {
             <h2 className="text-gray-600 productInfo">{product.line6}</h2>
               <h2 className="text-gray-600 productInfo">{product.line7}</h2>
                 <h2 className="text-gray-600 productInfo">{product.line8}</h2>
-               
-<label htmlFor="html">Size:</label>
-<select name="size" id="productSize">
+
+
+                 
+<label htmlFor="html" className="border-t-2 border-gray-100">Size:</label>
+<select name="size" id="productSize" >
     <option value="0">CHOOSE</option>
   <option value="1">L</option>
   <option value="2">M</option>
@@ -58,13 +61,14 @@ function ProductPage() {
   <option value="5">XS</option>
   <option value="6">XXL</option>
 </select>
-<label htmlFor="html">Color:</label>
-<div className={`w-10 h-10 rounded-full ${product.faq}`}></div>
-<div className="flex  gap-2">  
-       <div className="flex gap-0 m-3 ">
-      <button onClick={decrement} className="border w-[50px] border-gray-200 p-4 bg-gray-100">-</button>
+
+<label htmlFor="html" className="border-t-2 border-gray-100">Color:</label>
+<div className={`w-10 h-10 border-b-2 border-black rounded-full ${product.faq}`}></div>
+<div className="sm:flex  gap-2 ">  
+       <div className="flex gap-0  m-3 counter">
+      <button onClick={decrement} className="border  w-[50px]  border-gray-200 p-4 bg-gray-100">-</button>
       <h1 className="border-t-1 border-b-1 w-[50px] flex items-center justify-center border-gray-200 ">{count}</h1>
-      <button onClick={increment} className="border w-[50px] border-gray-200 p-4 bg-gray-100">+</button></div>
+      <button onClick={increment} className="border  w-[50px] border-gray-200 p-4 bg-gray-100">+</button></div>
   <div data-tooltip={product.price} className="button4 font-bold">
     <div className="button-wrapper4">
       <div className="text4">Add to cart</div>
@@ -83,14 +87,14 @@ function ProductPage() {
     </div>
   </div></div>
   {/* button */}
- <div className="flex gap-2 ">
+ <div className="flex sm:gap-2 gap-6">
   <div className="flex gap-2">
   <div>   <svg
   xmlns="http://www.w3.org/2000/svg"
   fill="none"
   viewBox="0 0 24 24"
   stroke="currentColor"
-  className="w-6 h-6"
+  className="w-10 h-10"
 >
   <path
     strokeLinecap="round"
@@ -98,7 +102,7 @@ function ProductPage() {
     strokeWidth={2}
     d="M5 5v16l7-5 7 5V5a2 2 0 00-2-2H7a2 2 0 00-2 2z"
   />
-</svg> </div> <h1 className="text-xl">Wishlist</h1>
+</svg> </div> <h1 className="text-3xl">Wishlist</h1>
   </div>
 
 <button class="aj-button">
@@ -131,8 +135,8 @@ function ProductPage() {
       </div>
 
       {/* Related Products */}
-      <h2 className="mt-10 mb-4 text-2xl font-bold text-center">Related Products</h2>
-      <div className="grid sm:grid-cols-5 grid-cols-1 gap-6">
+      <h2 className="mt-10  mb-4 text-2xl font-bold text-center">Related Products</h2>
+      <div className="grid sm:grid-cols-5 grid-cols-1 gap-6 justify-items-center ">
         {related.map((item) => (
            <Link 
       key={item.id} 

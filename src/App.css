@@ -129,6 +129,10 @@ margin-left: 10px;
 width: 32px;
 height: 32px;
 }
+.productpage{
+  padding: 0px !important;
+  margin: 0px !important;
+}
 marquee{
   display: block;
    color: #DDBDA8;
@@ -151,7 +155,24 @@ marquee{
   margin-left: 50px;
 
 }
+.productInfo{
+    width: 220px;     /* set a fixed width */
 
+font-size: 2px;
+ 
+  word-wrap: break-word;  
+}
+.button4 {
+  --width: 330px !important;
+margin-top: 20px;
+}
+.counter{
+
+   width: 100px; 
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto;
+}
   .wlcm2{
   display: block;
 }
@@ -169,6 +190,19 @@ nav{
   display: block;
     background-color: black;
     height: 60px;
+}
+.productInfo{
+    width: 220px !important;     /* set a fixed width */
+
+font-size: 14px !important;
+ 
+  word-wrap: break-word;  
+}
+.phone{
+  margin: 20px;
+}
+.phone2{
+  border:  2px solid gray !important;
 }
   .heading{
     display: none;

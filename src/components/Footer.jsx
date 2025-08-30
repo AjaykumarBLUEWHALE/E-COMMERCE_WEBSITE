@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
    <div>
-     <div className='grid sm:grid-cols-3 grid-cols-1 '>
+     <div className='grid sm:grid-cols-3 grid-cols-1 border-t-2 border-gray-100 '>
 
         <div className="footer-box1  text-center shadow ">
             <h1>GET -20% OFF ON YOUR FIRST ORDER
