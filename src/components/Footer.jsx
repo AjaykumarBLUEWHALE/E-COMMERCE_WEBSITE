@@ -1,6 +1,6 @@
 import React from 'react'
 import Footericon from './Footericon'
-import Right from './Right'
+import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
    <div>
@@ -11,8 +11,8 @@ const Footer = () => {
 <blockquote className="opacity-40">CODE : FRDV20</blockquote>
 </h1>
         </div>
-        <div className="footer-box2 shadow "><img src="https://frdv.co/_next/static/media/frdv-logo.94dea3eb660c50542ae0869ac22dc3e8.png" alt="" /></div>
-        <div className="footer-box3 text-center shadow ">
+       <Link to="/"> <div className="footer-box2 shadow "><img src="https://frdv.co/_next/static/media/frdv-logo.94dea3eb660c50542ae0869ac22dc3e8.png" alt="logo" /></div></Link>
+        <div className="footer-box3 text-center shadow cursor-pointer ">
             <ul className='opacity-40'><li>About</li>
             <li>CVG</li>
             <li>Contact</li>
@@ -24,7 +24,10 @@ const Footer = () => {
               <div> <Footericon/>  </div>
         </div>
     </div>
-    <Right/>
+     <div className='text-center opacity-30'>
+        <h1>© 2025 FRDV</h1>
+<h1>All right reserved</h1>
+    </div>
    </div>
 
   )

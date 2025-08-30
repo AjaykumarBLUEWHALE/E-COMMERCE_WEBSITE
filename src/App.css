@@ -693,17 +693,33 @@ a {
     right: 1rem;
   }
 }
+.productpage{
+  padding: 30px;
+  margin: 30px;
+}
+.productpage  img{
+  padding: 20px;
+}
+.productInfo{
+    width: 420px;     /* set a fixed width */
 
+font-size: 20px;
+ 
+  word-wrap: break-word;  
+}
+#productSize{
+  width: 100px;
+}
 /*add to cart button*/
 /* From Uiverse.io by JaydipPrajapati1910 */ 
 .button4 {
-  --width: 100px;
-  --height: 35px;
+  --width: 470px;
+  --height: 42px;
   --tooltip-height: 35px;
   --tooltip-width: 90px;
   --gap-between-tooltip-to-button: 18px;
   --button-color: #222;
-  --tooltip-color: #fff;
+  --tooltip-color: #DDBDA8;
   width: var(--width);
   height: var(--height);
   background: var(--button-color);
@@ -711,7 +727,6 @@ a {
   text-align: center;
   border-radius: 0.45em;
   font-family: "Arial";
-  margin-top: 50px;
   transition: background 0.3s;
 }
 
@@ -722,7 +737,7 @@ a {
   height: var(--tooltip-height);
   background-color: #555;
   font-size: 0.9rem;
-  color: #fff;
+  color: #DDBDA8;
   border-radius: .25em;
   line-height: var(--tooltip-height);
   bottom: calc(var(--height) + var(--gap-between-tooltip-to-button) + 10px);
@@ -758,7 +773,7 @@ a {
   width: 100%;
   height: 100%;
   left: 0;
-  color: #fff;
+  color: #DDBDA8;
 }
 
 .text4 {
@@ -770,7 +785,7 @@ a {
 }
 
 .icon4 {
-  color: #fff;
+  color: #DDBDA8;
   top: 100%;
   display: flex;
   align-items: center;
@@ -809,3 +824,63 @@ a {
 
 
 
+/*product page share icon*/
+.aj-button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  background: black;
+  color: white;
+  padding: 0.25em 0;
+  font-size: 17px;
+  border: none;
+  border-radius: 0.4em;
+  letter-spacing: 0.08em;
+  position: relative;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 2em;
+  padding-left: 3em;
+  padding-right: 0.5em;
+}
+
+.aj-button .aj-icon {
+  background: #fff;
+  margin-right: 1em;
+  height: 1.8em;
+  width: 2.2em;
+  border-radius: 0.4em;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 0.2em;
+  transition: all .7s;
+  gap: 10px;
+}
+
+.aj-shere {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+.aj-button:hover .aj-icon {
+  width: calc(100% - 0.6rem);
+}
+
+.aj-button:hover .aj-shere {
+  width: calc(100% - 0.6rem);
+  display: none;
+}
+
+.aj-button .aj-icon-shere {
+  color: black;
+  width: 1.5rem;
+  height: 1.5rem;
+  display: none;
+}
+
+.aj-button:hover .aj-icon .aj-icon-shere {
+  display: flex;
+}

@@ -10,7 +10,8 @@ const TopIcon = () => {
          </svg></Link>
     </div>
     <div className="icon border-l-2 border-r-2 border-gray-200">
-     <Link to="/wishlist">   <svg
+     <Link to="/wishlist">  
+      <svg
   xmlns="http://www.w3.org/2000/svg"
   fill="none"
   viewBox="0 0 24 24"

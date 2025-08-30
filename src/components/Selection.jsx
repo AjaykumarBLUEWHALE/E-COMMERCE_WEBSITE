@@ -11,7 +11,7 @@ export const Card = ({ item }) => {
       />
       <div className="p-2 text-center">
         <p className="text-sm opacity-40">{item.name}</p>
-        <p className="font-bold">{item.price}</p>
+        <p className="font-bold">₹{item.price}</p>
       </div>
     </div>
   )
