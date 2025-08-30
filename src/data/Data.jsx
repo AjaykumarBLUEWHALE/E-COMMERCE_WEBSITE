@@ -7,7 +7,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-noir.jpg&w=750&q=75",
       "name": "Tshirt diamant fraise noir",
       "price": " 999",
-      "color": "black",
+      
       "line": "“Diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -17,14 +17,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-frdv-bleu.jpg&w=750&q=75",
       "name": "Tshirt diamant fraise frdv bleu",
       "price": " 999",
-      "color": "blue",
+    
       "line": "“Diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -34,14 +34,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-cyan-900"
     },
     {
       "id": 3,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-diamant-fraise-frdv-blanc.jpg&w=750&q=75",
       "name": "Tshirt diamant fraise frdv blanc",
       "price": " 999",
-      "color": "white",
+       
       "line": "“Diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -51,14 +51,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-white"
     },
     {
       "id": 4,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-grenouille-qui-siffle-frdv-bleu.jpg&w=750&q=75",
       "name": "Tshirt grenouille qui siffle frdv bleu",
       "price": " 999",
-      "color": "blue",
+    
       "line": "“Whistling frog” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -68,14 +68,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-cyan-800"
     },
     {
       "id": 5,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-grenouille-qui-siffle-frdv-blanc.jpg&w=750&q=75",
       "name": "Tshirt grenouille qui siffle frdv blanc",
       "price": " 999",
-      "color": "white",
+       
       "line": "“Whistling frog” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -85,14 +85,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-white"
     },
     {
       "id": 6,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-grenouille-qui-siffle-frdv.jpg&w=750&q=75",
       "name": "Tshirt grenouille qui siffle frdv",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Whistling frog” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -102,14 +102,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 7,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-Paridise-noir.jpg&w=750&q=75",
       "name": "Tshirt Paridise noir",
       "price": " 999",
-      "color": "black",
+      
       "line": "“Paridise” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -119,14 +119,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 8,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-Paridise-blanc-frdv.jpg&w=750&q=75",
       "name": "Tshirt Paridise blanc frdv",
       "price": " 999",
-      "color": "white",
+       
       "line": "“Paridise” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -136,14 +136,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-white"
     },
     {
       "id": 9,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Ftshirt-cupcake-fraise-diamant-frdv.jpg&w=750&q=75",
       "name": "Tshirt cupcake fraise diamant frdv",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Cupcake diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -153,14 +153,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-fuchsia-500"
+      "faq": "bg-gray-400"
     },
     {
       "id": 10,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-cupcake-diamant-fraise-frdv.jpg&w=750&q=75",
       "name": "Tshirt cupcake diamant fraise frdv",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Cupcake diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -170,14 +170,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-fuchsia-500"
+      "faq": "bg-white"
     },
     {
       "id": 11,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Ftshirt-cupcake-diamant-fraise.jpg&w=750&q=75",
       "name": "Tshirt cupcake diamant fraise",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Cupcake diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -187,14 +187,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-fuchsia-500"
+      "faq": "bg-black"
     },
     {
       "id": 12,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-paridise-p.jpg&w=750&q=75",
       "name": "Tshirt paridise p",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Paridise P” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -204,14 +204,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-white"
     },
     {
       "id": 13,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-Paridise-p-noir.jpg&w=750&q=75",
       "name": "Tshirt Paridise p noir",
       "price": " 999",
-      "color": "black",
+      
       "line": "“Paridise P” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -221,14 +221,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 14,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-frdv-coeur.jpg&w=750&q=75",
       "name": "Tshirt diamant fraise frdv coeur",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry heart” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -238,14 +238,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-white"
     },
     {
       "id": 15,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2FTshirt-face-frdv-23.jpg&w=750&q=75",
       "name": "Tshirt face frdv 23",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“FRDV face” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -255,14 +255,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-blue-500"
+      "faq": "bg-black"
     },
     {
       "id": 16,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-F-frdv-noir-1.jpg&w=750&q=75",
       "name": "Tshirt F frdv noir",
       "price": " 999",
-      "color": "black",
+      
       "line": "“F FRDV” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -272,14 +272,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-purple-500"
+      "faq": "bg-black"
     },
     {
       "id": 17,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2FTshirt-frdv-face.jpg&w=750&q=75",
       "name": "Tshirt frdv face",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“FRDV face” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -289,14 +289,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-blue-500"
+      "faq": "bg-black"
     },
     {
       "id": 18,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-diamant-fraise-Frdv.jpg&w=750&q=75",
       "name": "Tshirt diamant fraise Frdv",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -306,14 +306,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 19,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-Obama-excuse-my-freshness.jpg&w=750&q=75",
       "name": "Tshirt Obama excuse my freshness",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Obama – Excuse My Freshness” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -323,14 +323,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-red-500"
+      "faq": "bg-white"
     },
     {
       "id": 20,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-shaq-oneal-nba-basketball.jpg&w=750&q=75",
       "name": "Tshirt Shaq Oneal NBA basketball",
       "price": " 999",
-      "color": "unspecified",
+      
       "line": "“Shaq O’Neal – NBA” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -340,7 +340,7 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-yellow-500"
+      "faq": "bg-white"
     }
   ],
   "hoodie": [
@@ -349,7 +349,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fhoodie-fraise-diamant-biologique-frdv.jpg&w=750&q=75",
       "name": "Diamond strawberry hoodie",
       "price": "95,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” hoodie in organic cotton",
       "line1": "Small format strawberry diamond embroidery",
       "line2": "Lined hood and thick drawstrings",
@@ -359,14 +359,14 @@
       "line6": "Every detail of the hoodie has been carefully thought out to make it a quality piece",
       "line7": "To choose the most suitable size you will find the size guide in the description below",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fhoodie-fraise-diamant-bio-blanc-frdv.jpg&w=750&q=75",
       "name": "Diamond-strawberry hoodie",
       "price": "95,00",
-      "color": "white",
+       
       "line": "“Diamond strawberry” hoodie in organic cotton",
       "line1": "Small format diamond strawberry embroidery",
       "line2": "Lined hood and thick drawstrings",
@@ -376,14 +376,14 @@
       "line6": "Every detail of the hoodie has been carefully thought out to make it a quality piece",
       "line7": "To choose the most suitable size you will find the size guide in the description below",
       "line8": "Free delivery",
-      "faq": "bg-yellow-500"
+      "faq": "bg-white"
     },
     {
       "id": 3,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fhoodie-whistle-frdv-coton-biologique.jpg&w=750&q=75",
       "name": "Whistle hoodie",
       "price": "95,00",
-      "color": "unspecified",
+      
       "line": "“Whistle” hoodie in organic cotton",
       "line1": "Front whistle frog embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -393,14 +393,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 4,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fwhistle-frdv-hoodie.jpg&w=750&q=75",
       "name": "Whistle hoodie",
       "price": "95,00",
-      "color": "unspecified",
+      
       "line": "“Whistle” hoodie in cotton",
       "line1": "Front whistle frog embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -410,14 +410,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-white"
     },
     {
       "id": 5,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSweat-Paridise-noir-4.jpg&w=750&q=75",
       "name": "Paridise hoodie",
       "price": "95,00",
-      "color": "black",
+      
       "line": "“Paridise” hoodie in cotton",
       "line1": "Front motif embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -427,14 +427,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 6,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fpull-paridise-blanc.jpg&w=750&q=75",
       "name": "Paridise hoodie",
       "price": "95,00",
-      "color": "white",
+       
       "line": "“Paridise” hoodie in cotton",
       "line1": "Front motif embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -444,14 +444,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-white"
     },
     {
       "id": 7,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPull-sweat-shirt-fraise-diamant-Frdv-noir.jpg&w=750&q=75",
       "name": "Diamond strawberry sweatshirt",
       "price": "85,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” sweatshirt in cotton",
       "line1": "Front motif embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -461,14 +461,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 8,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPull-sweat-shirt-fraise-diamant-Frdv-2.jpg&w=750&q=75",
       "name": "Diamond strawberry sweatshirt",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” sweatshirt in cotton",
       "line1": "Front motif embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -478,14 +478,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-gray-400"
     },
     {
       "id": 9,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPull-capuche-grenouille-FRDV-Frenchrdv-noir.jpg&w=750&q=75",
       "name": "Diamond strawberry hoodie",
       "price": "95,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” hoodie in cotton",
       "line1": "Front motif embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -495,14 +495,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 10,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fsweat-shirt-frog-noir.jpg&w=750&q=75",
       "name": "Whistle sweatshirt",
       "price": "85,00",
-      "color": "black",
+      
       "line": "“Whistle” sweatshirt in cotton",
       "line1": "Front whistle frog embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -512,14 +512,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 11,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSweatshirt-grenouille-qui-siffle-gris-Frdv.jpg&w=750&q=75",
       "name": "Whistle sweatshirt",
       "price": "85,00",
-      "color": "grey",
+       
       "line": "“Whistle” sweatshirt in cotton",
       "line1": "Front whistle frog embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -529,14 +529,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-gray-400"
     },
     {
       "id": 12,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPull-diamant-fraise-Frdv-noir.jpg&w=750&q=75",
       "name": "Diamond strawberry sweatshirt",
       "price": "80,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” sweatshirt in cotton",
       "line1": "Front motif embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -546,14 +546,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 13,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSweat-shirt-paridise-paradise-paris.jpg&w=750&q=75",
       "name": "Paridise sweatshirt",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” sweatshirt in cotton",
       "line1": "Front motif embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -563,14 +563,14 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-gray-400"
     },
     {
       "id": 14,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSweat-shirt-pull-diamant-fraise-FRDV.jpg&w=750&q=75",
       "name": "Diamond strawberry sweatshirt",
       "price": "80,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” sweatshirt in cotton",
       "line1": "Front motif embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -580,7 +580,7 @@
       "line6": "Thoughtful details and premium construction",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-gray-400"
     }
   ],
 
@@ -590,7 +590,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamond-strawberry-FRDV-noir.jpg&w=750&q=75",
       "name": "Diamond strawberry polo shirt",
       "price": "55,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” cotton piqué polo",
       "line1": "Small diamond strawberry embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -600,14 +600,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-FRDV-blanc.jpg&w=750&q=75",
       "name": "Diamond strawberry polo shirt",
       "price": "55,00",
-      "color": "white",
+       
       "line": "“Diamond strawberry” cotton piqué polo",
       "line1": "Small diamond strawberry embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -617,14 +617,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-white"
     },
     {
       "id": 3,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-grenouille-qui-siffle-siffleur-FRDV-bleu-marine.jpg&w=750&q=75",
       "name": "Whistle polo shirt",
       "price": "49,00",
-      "color": "navy",
+      
       "line": "“Whistle” cotton piqué polo",
       "line1": "Whistling frog embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -634,14 +634,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-slate-500"
     },
     {
       "id": 4,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-frog-grenouille-FRDV-noir.jpg&w=750&q=75",
       "name": "Whistle polo shirt",
       "price": "49,00",
-      "color": "black",
+      
       "line": "“Whistle” cotton piqué polo",
       "line1": "Whistling frog embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -651,14 +651,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 5,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-grenouille-qui-siffle-whistle-FRDV-blanc.jpg&w=750&q=75",
       "name": "Whistle polo shirt",
       "price": "49,00",
-      "color": "white",
+       
       "line": "“Whistle” cotton piqué polo",
       "line1": "Whistling frog embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -668,14 +668,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-white"
     },
     {
       "id": 6,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-frdv-blanc-1.jpg&w=750&q=75",
       "name": "Diamond strawberry polo shirt",
       "price": "55,00",
-      "color": "white",
+       
       "line": "“Diamond strawberry” cotton piqué polo",
       "line1": "Small diamond strawberry embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -685,14 +685,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-white"
     },
     {
       "id": 7,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FPolo-diamant-fraise-frdv.jpg&w=750&q=75",
       "name": "Diamond strawberry polo shirt",
       "price": "55,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” cotton piqué polo",
       "line1": "Small diamond strawberry embroidery at chest",
       "line2": "Ribbed collar and cuffs",
@@ -702,7 +702,7 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     }
   ],
   "pantProducts": [
@@ -711,7 +711,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fpantalon-bio-frdv-noir-diamant-fraise.jpg&w=750&q=75",
       "name": "Diamond strawberry pant",
       "price": "85,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” jogger pants in organic cotton fleece",
       "line1": "Small diamond strawberry embroidery",
       "line2": "Elasticated waistband with drawcord",
@@ -721,14 +721,14 @@
       "line6": "Color: Black",
       "line7": "Unisex regular fit",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fpantalon-bio-frdv-diamant-frase.jpg&w=750&q=75",
       "name": "Diamond strawberry pant",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” jogger pants in cotton fleece",
       "line1": "Small diamond strawberry embroidery",
       "line2": "Elasticated waistband with drawcord",
@@ -738,14 +738,14 @@
       "line6": "Color: Unspecified",
       "line7": "Unisex regular fit",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-gray-400"
     },
     {
       "id": 3,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fpantalon-bio-frdv-noir-molletonne.jpg&w=750&q=75",
       "name": "Whistle pant",
       "price": "85,00",
-      "color": "black",
+      
       "line": "“Whistle” jogger pants in cotton fleece",
       "line1": "Whistling frog embroidery",
       "line2": "Elasticated waistband with drawcord",
@@ -755,14 +755,14 @@
       "line6": "Color: Black",
       "line7": "Unisex regular fit",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 4,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fpantalon-bio-frdv-whistle-gris.jpg&w=750&q=75",
       "name": "Whistle pant",
       "price": "85,00",
-      "color": "grey",
+       
       "line": "“Whistle” jogger pants in cotton fleece",
       "line1": "Whistling frog embroidery",
       "line2": "Elasticated waistband with drawcord",
@@ -772,7 +772,7 @@
       "line6": "Color: Grey",
       "line7": "Unisex regular fit",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     }
   ],
   "coatProducts": [
@@ -781,7 +781,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FBomber-grenouille-qui-siffle-FRDV-noir.jpg&w=750&q=75",
       "name": "Whistle bomber coat",
       "price": "200,00",
-      "color": "black",
+      
       "line": "“Whistle” bomber jacket",
       "line1": "Whistling frog chest embroidery",
       "line2": "Front zip closure",
@@ -791,14 +791,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FBomber-diamant-fraise-frdv-4.jpg&w=750&q=75",
       "name": "Diamond strawberry bomber coat",
       "price": "200,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” bomber jacket",
       "line1": "Diamond strawberry chest embroidery",
       "line2": "Front zip closure",
@@ -808,14 +808,14 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 3,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FDoudoune-grenouille-qui-siffle-FRDV.jpg&w=750&q=75",
       "name": "Whistle down jacket",
       "price": "250,00",
-      "color": "unspecified",
+      
       "line": "“Whistle” quilted down jacket",
       "line1": "Whistling frog chest embroidery",
       "line2": "Quilted, insulated body",
@@ -825,14 +825,14 @@
       "line6": "Elastic cuffs and hem",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 4,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FDoudoune-diamant-fraise-FRDV.jpg&w=384&q=75",
       "name": "Diamond-strawberry down jacket",
       "price": "250,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” quilted down jacket",
       "line1": "Diamond strawberry chest embroidery",
       "line2": "Quilted, insulated body",
@@ -842,7 +842,7 @@
       "line6": "Elastic cuffs and hem",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     }
   ],
   "para": [
@@ -851,7 +851,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-Paridise-noir.jpg&w=750&q=75",
       "name": "Paridise t-shirt",
       "price": "45,00",
-      "color": "black",
+      
       "line": "“Paridise” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -861,14 +861,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 24,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-Paridise-blanc-frdv.jpg&w=750&q=75",
       "name": "Paridise t-shirt",
       "price": "45,00",
-      "color": "white",
+       
       "line": "“Paridise” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -878,14 +878,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-white"
     },
     {
       "id": 25,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FTshirt-paridise-p.jpg&w=750&q=75",
       "name": "Paridise t-shirt",
       "price": "40,00",
-      "color": "unspecified",
+      
       "line": "“Paridise P” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -895,14 +895,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-white"
     },
     {
       "id": 26,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FT-shirt-Paridise-p-noir.jpg&w=750&q=75",
       "name": "Paridise t-shirt",
       "price": "40,00",
-      "color": "black",
+      
       "line": "“Paridise P” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -912,14 +912,14 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 27,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-Paridise-paris-parisien-frdv.jpg&w=750&q=75",
       "name": "Paridise cap",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” adjustable baseball cap",
       "line1": "Embroidered Paridise logo",
       "line2": "Curved brim, 6-panel construction",
@@ -929,14 +929,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 28,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fcasquette-paridise-paradise-french-rdv-frdv.jpg&w=750&q=75",
       "name": "Paridise cap",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” adjustable baseball cap",
       "line1": "Embroidered Paridise logo",
       "line2": "Curved brim, 6-panel construction",
@@ -946,14 +946,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 29,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fcasquette-paridise-paradise-french-rdv-frdv-3.jpg&w=750&q=75",
       "name": "Paridise cap",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” adjustable baseball cap",
       "line1": "Embroidered Paridise logo",
       "line2": "Curved brim, 6-panel construction",
@@ -963,14 +963,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 30,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSweat-Paridise-noir-4.jpg&w=750&q=75",
       "name": "Paridise hoodie",
       "price": "95,00",
-      "color": "black",
+      
       "line": "“Paridise” hoodie in cotton",
       "line1": "Front motif embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -980,14 +980,14 @@
       "line6": "Premium construction and details",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 31,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fpull-paridise-blanc.jpg&w=750&q=75",
       "name": "Paridise hoodie",
       "price": "95,00",
-      "color": "white",
+       
       "line": "“Paridise” hoodie in cotton",
       "line1": "Front motif embroidery",
       "line2": "Lined hood and adjustable drawstrings",
@@ -997,14 +997,14 @@
       "line6": "Premium construction and details",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-white"
     },
     {
       "id": 32,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSweat-shirt-paridise-paradise-paris.jpg&w=750&q=75",
       "name": "Paridise sweatshirt",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” sweatshirt in cotton",
       "line1": "Front motif embroidery",
       "line2": "Crew neck with ribbed collar, cuffs and hem",
@@ -1014,7 +1014,7 @@
       "line6": "Premium construction and details",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-gray-400"
     }
   ],
   "accessories": [
@@ -1023,7 +1023,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fdiamant-fraise-Frdv-new-era-cap-black.jpg&w=750&q=75",
       "name": "New Era Diamond-strawberry cap.",
       "price": "50,00",
-      "color": "black",
+      
       "line": "New Era × FRDV “Diamond strawberry” cap",
       "line1": "6-panel cap with curved brim",
       "line2": "Embroidered logo at front",
@@ -1033,14 +1033,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fdiamond-strawberry-Frdv-new-era-beanie.jpg&w=750&q=75",
       "name": "New Era Diamond-strawberry beanie",
       "price": "35,00",
-      "color": "unspecified",
+      
       "line": "New Era × FRDV “Diamond strawberry” rib-knit beanie",
       "line1": "Turn-up cuff with embroidery",
       "line2": "Soft knit construction",
@@ -1050,14 +1050,14 @@
       "line6": "One size fits most",
       "line7": "Care: hand wash recommended",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 3,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2FGrenouille-Frdv-new-era-cap-black.jpg&w=750&q=75",
       "name": "New Era 'Whistle' cap",
       "price": "50,00",
-      "color": "black",
+      
       "line": "New Era × FRDV “Whistle” cap",
       "line1": "6-panel cap with curved brim",
       "line2": "Whistling frog embroidery at front",
@@ -1067,14 +1067,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 4,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Flong-frog-Frdv-new-era-beanie.jpg&w=750&q=75",
       "name": "New Era 'Whistle' beanie",
       "price": "35,00",
-      "color": "unspecified",
+      
       "line": "New Era × FRDV “Whistle” rib-knit beanie",
       "line1": "Turn-up cuff with frog embroidery",
       "line2": "Soft knit construction",
@@ -1084,14 +1084,14 @@
       "line6": "One size fits most",
       "line7": "Care: hand wash recommended",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 5,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Flong-frog-Frdv-new-era-beanie.jpg&w=384&q=75",
       "name": "Diamond strawberry waist bag",
       "price": "35,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” waist bag",
       "line1": "Main zip compartment",
       "line2": "Adjustable strap for waist or crossbody wear",
@@ -1101,14 +1101,14 @@
       "line6": "Compact everyday carry",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 6,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-diamant-fraise-frdv.jpg&w=750&q=75",
       "name": "Diamond strawberry cap",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” adjustable baseball cap",
       "line1": "Embroidered logo at front",
       "line2": "Curved brim, 6-panel construction",
@@ -1118,14 +1118,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 7,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSacoche-banane-diamant-fraise-frdv-copie.jpg&w=750&q=75",
       "name": "Diamond strawberry cap2",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” adjustable baseball cap",
       "line1": "Embroidered logo at front",
       "line2": "Curved brim, 6-panel construction",
@@ -1135,14 +1135,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-orange-500"
     },
     {
       "id": 8,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-fraise-diamant-noir-2019.jpg&w=384&q=75",
       "name": "Whistle cap",
       "price": "45,00",
-      "color": "black",
+      
       "line": "“Whistle” adjustable baseball cap",
       "line1": "Whistling frog embroidery at front",
       "line2": "Curved brim, 6-panel construction",
@@ -1152,14 +1152,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 9,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-grenouille-qui-siffle-frdv-noir.jpg&w=384&q=75",
       "name": "Paridise cap",
       "price": "45,00",
-      "color": "black",
+      
       "line": "“Paridise” adjustable baseball cap",
       "line1": "Embroidered Paridise logo",
       "line2": "Curved brim, 6-panel construction",
@@ -1169,14 +1169,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 10,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-Paridise-paris-parisien-frdv.jpg&w=750&q=75",
       "name": "Paridise cap",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” adjustable baseball cap",
       "line1": "Embroidered Paridise logo",
       "line2": "Curved brim, 6-panel construction",
@@ -1186,14 +1186,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 11,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fcasquette-paridise-paradise-french-rdv-frdv-3.jpg&w=750&q=75",
       "name": "Paridise cap",
       "price": "45,00",
-      "color": "unspecified",
+      
       "line": "“Paridise” adjustable baseball cap",
       "line1": "Embroidered Paridise logo",
       "line2": "Curved brim, 6-panel construction",
@@ -1203,14 +1203,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-indigo-500"
+      "faq": "bg-black"
     },
     {
       "id": 12,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-fraise-diamant-noir.jpg&w=750&q=75",
       "name": "Diamond strawberry cap6",
       "price": "45,00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” adjustable baseball cap",
       "line1": "Embroidered logo at front",
       "line2": "Curved brim, 6-panel construction",
@@ -1220,14 +1220,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 13,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FCasquette-fraise-diamant-noir-et-blanche.jpg&w=750&q=75",
       "name": "Diamond strawberry cap",
       "price": "45,00",
-      "color": "black/white",
+    
       "line": "“Diamond strawberry” adjustable baseball cap",
       "line1": "Embroidered logo at front",
       "line2": "Curved brim, 6-panel construction",
@@ -1237,14 +1237,14 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-white"
     },
     {
       "id": 14,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FBonnet-diamant-fraise-long-FRDV-blanc.jpg&w=384&q=75",
       "name": "Diamond strawberry long beanie",
       "price": "25,00",
-      "color": "white",
+       
       "line": "“Diamond strawberry” rib-knit long beanie",
       "line1": "Long silhouette with turn-up cuff",
       "line2": "Front embroidery",
@@ -1254,14 +1254,14 @@
       "line6": "One size fits most",
       "line7": "Care: hand wash recommended",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-white"
     },
     {
       "id": 15,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F09%2Ffrdv-orange-long-beanie.png&w=750&q=75",
       "name": "FRDV long beanie",
       "price": "25,00",
-      "color": "orange",
+
       "line": "FRDV rib-knit long beanie",
       "line1": "Long silhouette with turn-up cuff",
       "line2": "Front FRDV mark",
@@ -1271,14 +1271,14 @@
       "line6": "One size fits most",
       "line7": "Care: hand wash recommended",
       "line8": "Free delivery",
-      "faq": "bg-blue-500"
+      "faq": "bg-orange-500"
     },
     {
       "id": 16,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FBonnet-grenouille-qui-siffle-whistle-bleu-long-FRDV.jpg&w=750&q=75",
       "name": "Whistle long beanie",
       "price": "25,00",
-      "color": "blue",
+    
       "line": "“Whistle” rib-knit long beanie",
       "line1": "Long silhouette with turn-up cuff",
       "line2": "Whistling frog embroidery",
@@ -1288,14 +1288,14 @@
       "line6": "One size fits most",
       "line7": "Care: hand wash recommended",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-blue-950"
     },
     {
       "id": 17,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSac-tote-bag-tactique-diamant-fraise-streetwear-Frdv.jpg&w=750&q=75",
       "name": "Diamond strawberry bag",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” tactical shoulder bag",
       "line1": "Spacious main compartment",
       "line2": "Multiple pockets for organization",
@@ -1305,14 +1305,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 18,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSac-tote-bag-tactique-grenouille-qui-siffle-streetwear-Frdv.jpg&w=384&q=75",
       "name": "Diamond strawberry backpack",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” tactical backpack",
       "line1": "Roomy main compartment",
       "line2": "Front pocket with organizer",
@@ -1322,14 +1322,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 19,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSac-a-dos-diamant-fraise-tactique-frdv.jpg&w=750&q=75",
       "name": "Diamond Strawberry Tactical Backpack",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” tactical backpack",
       "line1": "Roomy main compartment",
       "line2": "Front pocket with organizer",
@@ -1339,14 +1339,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 20,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSac-a-dos-tactique-grenouille-qui-siffle-whistle-frdv.jpg&w=750&q=75",
       "name": "Whistling Frog Tactical Backpack",
       "price": "85,00",
-      "color": "unspecified",
+      
       "line": "“Whistle” tactical backpack",
       "line1": "Roomy main compartment",
       "line2": "Front pocket with organizer",
@@ -1356,14 +1356,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 21,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FChaussettes-diamant-fraise-marque-streetwear-FRDV.jpg&w=750&q=75",
       "name": "Diamond Strawberry Socks",
       "price": "15,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” cotton-blend crew socks",
       "line1": "Ribbed cuffs for secure fit",
       "line2": "Breathable knit",
@@ -1373,14 +1373,14 @@
       "line6": "One size fits most",
       "line7": "Care: machine wash cold",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 22,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FChaussettes-grenouille-qui-siffle-marque-streetwear-FRDV.jpg&w=750&q=75",
       "name": "Whistling Frog Socks",
       "price": "15,00",
-      "color": "unspecified",
+      
       "line": "“Whistle” cotton-blend crew socks",
       "line1": "Ribbed cuffs for secure fit",
       "line2": "Breathable knit",
@@ -1390,14 +1390,14 @@
       "line6": "One size fits most",
       "line7": "Care: machine wash cold",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 23,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FMasque-de-protection-diamant-fraise-frdv.jpg&w=750&q=75",
       "name": "Diamond Strawberry Protective Mask",
       "price": "20,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” reusable face mask",
       "line1": "Soft, breathable fabric",
       "line2": "Comfortable ear loops",
@@ -1407,14 +1407,14 @@
       "line6": "Non-medical mask",
       "line7": "Care: machine wash cold",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 24,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FMasque-de-protection-grenouille-qui-siffle-frdv-noir.jpg&w=750&q=75",
       "name": "Whistling Frog Protective Mask",
       "price": "20,00",
-      "color": "black",
+      
       "line": "“Whistle” reusable face mask",
       "line1": "Soft, breathable fabric",
       "line2": "Comfortable ear loops",
@@ -1424,14 +1424,14 @@
       "line6": "Non-medical mask",
       "line7": "Care: machine wash cold",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 25,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FClaquettes-tactiques-diamant-fraise-FRDV.jpg&w=384&q=75",
       "name": "Diamond Strawberry Tactical Slides",
       "price": "35,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” tactical slides",
       "line1": "Molded footbed for comfort",
       "line2": "Textured outsole for grip",
@@ -1441,14 +1441,14 @@
       "line6": "Unisex sizing",
       "line7": "Care: wipe clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 26,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FClaquettes-tactiques-grenouille-qui-siffle-streetwear-FRDV.jpg&w=384&q=75",
       "name": "Whistling Frog Tactical Slides",
       "price": "35,00",
-      "color": "unspecified",
+      
       "line": "“Whistle” tactical slides",
       "line1": "Molded footbed for comfort",
       "line2": "Textured outsole for grip",
@@ -1458,14 +1458,14 @@
       "line6": "Unisex sizing",
       "line7": "Care: wipe clean",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     },
     {
       "id": 27,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F09%2FSac-de-course-tote-bag-diamant-fraise-frdv.jpg&w=384&q=75",
       "name": "Diamond Strawberry Tote Bag",
       "price": "30,00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” tote bag",
       "line1": "Durable canvas construction",
       "line2": "Open main compartment",
@@ -1475,14 +1475,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 28,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F09%2FSac-tote-bag-grenouille-qui-siffle-Frdv-noir.jpg&w=384&q=75",
       "name": "Whistling Frog Tote Bag",
       "price": "30,00",
-      "color": "black",
+      
       "line": "“Whistle” tote bag",
       "line1": "Durable canvas construction",
       "line2": "Open main compartment",
@@ -1492,14 +1492,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-gray-900"
     },
     {
       "id": 29,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F09%2FSac-tote-bag-oui-mais-non.jpg&w=384&q=75",
       "name": "Oui Mais Non Tote Bag",
       "price": "30,00",
-      "color": "unspecified",
+      
       "line": "“Oui Mais Non” tote bag",
       "line1": "Durable canvas construction",
       "line2": "Open main compartment",
@@ -1509,14 +1509,14 @@
       "line6": "Everyday carry friendly",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-gray-500"
+      "faq": "bg-yellow-50"
     },
     {
       "id": 30,
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F09%2Fbonnet-camel-marron-pas-chere.jpg&w=384&q=75",
       "name": "Camel Brown Beanie",
       "price": "20,00",
-      "color": "camel brown",
+   
       "line": "Camel brown rib-knit beanie",
       "line1": "Turn-up cuff",
       "line2": "Soft knit construction",
@@ -1526,7 +1526,7 @@
       "line6": "One size fits most",
       "line7": "Care: hand wash recommended",
       "line8": "Free delivery",
-      "faq": "bg-amber-600"
+      "faq": "bg-amber-800"
     }
   ],
   "imgUrls": [
@@ -1536,7 +1536,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F08%2Fdiamant-fraise-Frdv-new-era-cap-black.jpg&w=384&q=75",
       "sub": "New Era Diamond-strawberry cap.",
       "price": "60.00",
-      "color": "black",
+      
       "line": "New Era × FRDV “Diamond strawberry” cap",
       "line1": "6-panel cap with curved brim",
       "line2": "Front embroidery",
@@ -1546,7 +1546,7 @@
       "line6": "One size fits most",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 2,
@@ -1554,7 +1554,7 @@
       "sub": "New Era Diamond-strawberry cap.",
        "name":"Tshirt diamant fraise noir",
       "price": "60.00",
-      "color": "black",
+      
       "line": "“Diamond strawberry” cotton t-shirt",
       "line1": "Front graphic print",
       "line2": "Ribbed crew neck",
@@ -1564,7 +1564,7 @@
       "line6": "Machine washable, durable print",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-black"
     },
     {
       "id": 3,
@@ -1572,7 +1572,7 @@
       "url": "https://frdv.co/_next/image?url=https%3A%2F%2Fbackoffice.alannn.fr%2Fwp-content%2Fuploads%2F2023%2F04%2FSacoche-banane-diamant-fraise-frdv-copie.jpg&w=384&q=75",
       "sub": "New Era Diamond-strawberry cap.",
       "price": "60.00",
-      "color": "unspecified",
+      
       "line": "“Diamond strawberry” waist bag",
       "line1": "Main zip compartment",
       "line2": "Adjustable strap",
@@ -1582,7 +1582,7 @@
       "line6": "Compact everyday carry",
       "line7": "Care: spot clean",
       "line8": "Free delivery",
-      "faq": "bg-pink-500"
+      "faq": "bg-orange-500"
     },
     {
       "id": 4,
@@ -1590,7 +1590,7 @@
       "sub": "New Era Diamond-strawberry cap.",
       "price": "60.00",
       "name":"Whistle bomber coat",
-      "color": "black",
+      
       "line": "“Whistle” bomber jacket",
       "line1": "Whistling frog chest embroidery",
       "line2": "Front zip closure",
@@ -1600,7 +1600,7 @@
       "line6": "Unisex regular fit",
       "line7": "Size guide available",
       "line8": "Free delivery",
-      "faq": "bg-green-500"
+      "faq": "bg-black"
     }
   ]
 

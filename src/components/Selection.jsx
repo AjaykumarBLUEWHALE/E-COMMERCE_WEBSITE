@@ -23,7 +23,7 @@ const Selection = () => {
   return (
     <div>
       <div className="text-center font-bold text-4xl border-b-[40px] border-t-[40px] border-white ">Selection</div>
-      <div className="grid sm:grid-cols-4 grid-cols-1 gap-4 ">
+      <div className="grid sm:grid-cols-4 grid-cols-1 gap-4 justify-items-center ">
         {allProducts.imgUrls.map((item) => (
        <Link key={item.id}
        to={`/product/imgUrls/${item.id}`

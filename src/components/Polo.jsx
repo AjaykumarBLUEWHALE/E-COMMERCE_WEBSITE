@@ -1,7 +1,7 @@
 import MobileMenu from "./MobileMenu";
 import { Link } from "react-router-dom";
 import Footer from './Footer';
-import SweatpantsCard from './SweatpantsCard';
+
 import ProductSidebar from "./ProductSidebar";
 import { allProducts } from "../data/Data";
 const Polo = () => {

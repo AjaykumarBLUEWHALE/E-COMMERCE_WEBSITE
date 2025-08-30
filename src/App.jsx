@@ -17,7 +17,7 @@ import Save from "./components/Save";
 import Cart from "./components/Cart";
 import ProductPage from "./components/ProductPage";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
+import ASCIIText from "./components/ASCIIText";
 function App() {
   return (
     <div className="">
@@ -40,8 +40,18 @@ function App() {
           <Route path="/account" element={<Account />} />
           <Route path="/wishlist" element={<Save />} />
           <Route path="/cart" element={<Cart />} />
-          {/* Fallback */}
-          <Route path="*" element={<h1>404 Page Not Found</h1>} />
+       
+         {/* Fallback */}
+          <Route
+            path="*"
+            element={
+<ASCIIText
+  text='404 ERROR!'
+  enableWaves={true}
+  asciiFontSize={8}
+/>
+            }
+          />
           {/*Product routing*/}
            <Route path="/product/:category/:id" element={<ProductPage />} />
         </Routes>
