@@ -2,6 +2,7 @@ import { useParams ,Link} from "react-router-dom";
 import React, { useState } from "react";
 import { allProducts } from "../data/Data";
 import Footer from "./Footer";
+
 import ASCIIText from "./ASCIIText";
 
 function ProductPage() {

@@ -1,7 +1,9 @@
 import MobileMenu from "./MobileMenu";
 import { Link } from "react-router-dom";
 import Footer from './Footer';
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 import ProductSidebar from "./ProductSidebar";
 import { allProducts } from "../data/Data";
 const Polo = () => {
@@ -9,7 +11,8 @@ const Polo = () => {
   
   
   return (
-  <div>
+  <div data-aos="fade-up"
+     data-aos-duration="3000">
       <div className='title text-center'>POLO</div>
               <div> 
         

@@ -4,9 +4,13 @@ import Footer from './Footer';
 import SweatpantsCard from './SweatpantsCard';
 import ProductSidebar from "./ProductSidebar";
 import { allProducts } from "../data/Data";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 const Para = () => {
   return (
-     <div>
+     <div data-aos="fade-up"
+     data-aos-duration="3000">
       <div className='title text-center'>PARADISE</div>
       <MobileMenu/>
             <div className="grid grid-cols-1 w-[77vw] sm:left-70  left-10 relative title-box2 md:grid-cols-3 ">

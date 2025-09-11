@@ -1,9 +1,12 @@
 
 import Footer from './Footer';
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 const Account = () => {
   return (
-    <div>
+    <div data-aos="fade-up"
+     data-aos-duration="3000">
 
 <div className='w-full h-[80vh] bg-transparent z-0 '>
 <div className='flex items-center justify-center relative top-[0px]'>

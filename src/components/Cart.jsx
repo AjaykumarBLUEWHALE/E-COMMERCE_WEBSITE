@@ -1,8 +1,12 @@
 
 import Footer from './Footer'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 const Cart = () => {
   return (
-    <div className=''>
+    <div className='' data-aos="fade-up"
+     data-aos-duration="3000">
  
        <div className='flex items-center justify-center space-x-0'>
          <svg width={70} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
