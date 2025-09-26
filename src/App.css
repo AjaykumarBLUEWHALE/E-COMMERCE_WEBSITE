@@ -231,15 +231,19 @@ padding: 10px;
 @media only screen and (min-width:768px)and (max-width:1024px) and (orientation :portrait){
   /*portrait mode*/
  .icon-menu{
-    border: red solid 2px;
-    left: 71%;
+  
+    left: 70%;
+  }
+  .wlcm2{
+
+    width: 100vw;
   }
 }
 @media only screen and (min-width:768px)and (max-width:1024px) and (orientation :landscape){
   /*landscape mode*/
  .icon-menu{
-    border: red solid 2px;
-    left: 63%;
+    
+    left: 59%;
   }
 }
 

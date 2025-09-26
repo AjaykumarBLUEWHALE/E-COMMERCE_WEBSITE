@@ -5,7 +5,7 @@ import Gallery from './Gallery'
 import Footer from './Footer'
 const Home = () => {
   return (
-    <div>
+    <div className='overflow-hidden'>
           <Wlcm/>
   <Selection/>
   <Gallery/>
